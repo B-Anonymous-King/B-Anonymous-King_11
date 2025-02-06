@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and kali-linux
 - 😃 I'm a Tech Enthusiastic
 - 💞️ I’m looking to collaborate on (cybersecurity) any technology
-- 📫 How to reach me @mistertechy11@gmail.com
+- 📫 How to reach me @rajaramanabayya11@gmail.com
 - 🎓 Pre-Final year Bachelors student @NIT_HAMIRPUR
 <!---
 B-Anonymous-King/B-Anonymous-King is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
